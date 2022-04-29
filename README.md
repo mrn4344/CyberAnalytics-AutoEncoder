@@ -1,6 +1,23 @@
 # CyberAnalytics-AutoEncoder
 
+This repo is the culmination of a semester long project in Machine Learning for Cyber Analytics (offered at RIT). The goal of this project was to develop an auto encoder to run on an IDS dataset do anomaly detection. The end of this project ended with me measuring loss between the benign entries and different malicious classes. This repo is designed to show off training the model, and then testing the separation in the losses in a different dataset. This is also a way to measure feature drift of benign traffic across datasets.
+
+---
+
 In this repo, there is two folders: 2018_Train and 2017_Test.
+
+## Things to download first:
+
+From CIC-IDS-2018
+- 02-14-2018.csv
+- 02-15-2018.csv
+
+Place these in the 2018_Train folder.
+
+From CIC-IDS-2017
+- Friday-WorkingHours-Afternoon-DDos.csv
+
+Place this in the 2017_Test folder.
 
 ---
 ## 2018_Train
