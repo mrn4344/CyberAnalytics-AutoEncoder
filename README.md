@@ -8,13 +8,13 @@ In this repo, there is two folders: 2018_Train and 2017_Test.
 
 ## Things to download first:
 
-From CIC-IDS-2018
+From CIC-IDS-2018 (https://www.unb.ca/cic/datasets/ids-2018.html)
 - 02-14-2018.csv
 - 02-15-2018.csv
 
 Place these in the 2018_Train folder.
 
-From CIC-IDS-2017
+From CIC-IDS-2017 (https://www.unb.ca/cic/datasets/ids-2017.html)
 - Friday-WorkingHours-Afternoon-DDos.csv
 
 Place this in the 2017_Test folder.
